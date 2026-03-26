@@ -1,0 +1,12 @@
+models/*
+!models/.gitkeep
+!models/*/.gitkeep
+
+logs/*
+data/raw/*
+data/processed/*
+
+*.pkl
+*.h5
+*.json
+*.csv
