@@ -1,0 +1,17 @@
+occupancy_classes = {4: {"max": 1,
+                         "min": 0.8,
+                         "class": "Very High"},
+                     3: {"max": 0.8,
+                         "min": 0.6,
+                         "class": "High"},
+                     2: {"max": 0.6,
+                         "min": 0.4,
+                         "class": "Moderate"},
+                     1: {"max": 0.4,
+                         "min": 0.2,
+                         "class": "Low"},
+                     0: {"max": 0.2,
+                         "min": 0.0,
+                         "class": "Very Low"},
+                     }
+
